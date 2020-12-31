@@ -200,8 +200,8 @@ clock.isc.org (prev ntp.isc.org)
 ntp.time.nl (ntp1.time.nl)
 
 ## Kantonsschule Zug [AS34288]:
-ntp0.as34288.net
-ntp1.as34288.net
+ntp0.as34288.net  
+ntp1.as34288.net  
 
 ## INTERNET MULTIFEED CO. [AS7521]:
 ntp1.jst.mfeed.ad.jp
