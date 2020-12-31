@@ -408,15 +408,15 @@ time.esa.int
 time1.esa.int  
 
 ## Links  
-http://support.ntp.org/bin/view/Servers/StratumOneTimeServers
-http://support.ntp.org/bin/view/Servers/StratumTwoTimeServers
-http://support.ntp.org/bin/view/Servers/NTPPoolServers
-http://www.pool.ntp.org/zone/@
-http://www.pool.ntp.org/zone/asia
-http://www.pool.ntp.org/zone/europe
-http://www.pool.ntp.org/zone/north-america
-http://www.pool.ntp.org/zone/oceania
-http://www.pool.ntp.org/zone/south-america
-https://time.nl/
-https://time.nl/index_en.html
+[Stratum One Time Servers ](http://support.ntp.org/bin/view/Servers/StratumOneTimeServers)
+[StratumTwoTimeServers](http://support.ntp.org/bin/view/Servers/StratumTwoTimeServers)
+http://support.ntp.org/bin/view/Servers/NTPPoolServers  
+http://www.pool.ntp.org/zone/@  
+http://www.pool.ntp.org/zone/asia  
+http://www.pool.ntp.org/zone/europe  
+http://www.pool.ntp.org/zone/north-america  
+http://www.pool.ntp.org/zone/oceania  
+http://www.pool.ntp.org/zone/south-america  
+https://time.nl/  
+https://time.nl/index_en.html  
 
