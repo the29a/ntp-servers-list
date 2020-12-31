@@ -52,7 +52,7 @@ pool.ntp.org
 1.south-america.pool.ntp.org  
 2.south-america.pool.ntp.org  
 3.south-america.pool.ntp.org  
- 
+
 ## Google Public NTP [AS15169]:  
 time.google.com  
 time1.google.com  
@@ -204,210 +204,210 @@ ntp0.as34288.net
 ntp1.as34288.net  
 
 ## INTERNET MULTIFEED CO. [AS7521]:
-ntp1.jst.mfeed.ad.jp 
-ntp2.jst.mfeed.ad.jp 
-ntp3.jst.mfeed.ad.jp 
+ntp1.jst.mfeed.ad.jp   
+ntp2.jst.mfeed.ad.jp   
+ntp3.jst.mfeed.ad.jp   
 
-## NTP Pool:
-pool.ntp.org
-0.pool.ntp.org
-1.pool.ntp.org
-2.pool.ntp.org
-3.pool.ntp.org
-europe.pool.ntp.org
-0.europe.pool.ntp.org
-1.europe.pool.ntp.org
-2.europe.pool.ntp.org
-3.europe.pool.ntp.org
-asia.pool.ntp.org
-0.asia.pool.ntp.org
-1.asia.pool.ntp.org
-2.asia.pool.ntp.org
-3.asia.pool.ntp.org
-ru.pool.ntp.org
-0.ru.pool.ntp.org
-1.ru.pool.ntp.org
-2.ru.pool.ntp.org
-3.ru.pool.ntp.org
-0.gentoo.pool.ntp.org
-1.gentoo.pool.ntp.org
-2.gentoo.pool.ntp.org
-3.gentoo.pool.ntp.org
-0.arch.pool.ntp.org
-1.arch.pool.ntp.org
-2.arch.pool.ntp.org
-3.arch.pool.ntp.org
-0.fedora.pool.ntp.org
-1.fedora.pool.ntp.org
-2.fedora.pool.ntp.org
-3.fedora.pool.ntp.org
-0.opensuse.pool.ntp.org
-1.opensuse.pool.ntp.org
-2.opensuse.pool.ntp.org
-3.opensuse.pool.ntp.org
-0.centos.pool.ntp.org
-1.centos.pool.ntp.org
-2.centos.pool.ntp.org
-3.centos.pool.ntp.org
-0.debian.pool.ntp.org
-1.debian.pool.ntp.org
-2.debian.pool.ntp.org
-3.debian.pool.ntp.org
-0.askozia.pool.ntp.org
-1.askozia.pool.ntp.org
-2.askozia.pool.ntp.org
-3.askozia.pool.ntp.org
-0.freebsd.pool.ntp.org
-1.freebsd.pool.ntp.org
-2.freebsd.pool.ntp.org
-3.freebsd.pool.ntp.org
-0.netbsd.pool.ntp.org
-1.netbsd.pool.ntp.org
-2.netbsd.pool.ntp.org
-3.netbsd.pool.ntp.org
-0.openbsd.pool.ntp.org
-1.openbsd.pool.ntp.org
-2.openbsd.pool.ntp.org
-3.openbsd.pool.ntp.org
-0.dragonfly.pool.ntp.org
-1.dragonfly.pool.ntp.org
-2.dragonfly.pool.ntp.org
-3.dragonfly.pool.ntp.org
-0.pfsense.pool.ntp.org
-1.pfsense.pool.ntp.org
-2.pfsense.pool.ntp.org
-3.pfsense.pool.ntp.org
-0.opnsense.pool.ntp.org
-1.opnsense.pool.ntp.org
-2.opnsense.pool.ntp.org
-3.opnsense.pool.ntp.org
-0.amazon.pool.ntp.org
-1.amazon.pool.ntp.org
-2.amazon.pool.ntp.org
-3.amazon.pool.ntp.org
+## NTP Pool:  
+pool.ntp.org  
+0.pool.ntp.org  
+1.pool.ntp.org  
+2.pool.ntp.org  
+3.pool.ntp.org  
+europe.pool.ntp.org  
+0.europe.pool.ntp.org  
+1.europe.pool.ntp.org  
+2.europe.pool.ntp.org  
+3.europe.pool.ntp.org  
+asia.pool.ntp.org  
+0.asia.pool.ntp.org  
+1.asia.pool.ntp.org  
+2.asia.pool.ntp.org  
+3.asia.pool.ntp.org  
+ru.pool.ntp.org  
+0.ru.pool.ntp.org  
+1.ru.pool.ntp.org  
+2.ru.pool.ntp.org  
+3.ru.pool.ntp.org  
+0.gentoo.pool.ntp.org  
+1.gentoo.pool.ntp.org  
+2.gentoo.pool.ntp.org  
+3.gentoo.pool.ntp.org  
+0.arch.pool.ntp.org  
+1.arch.pool.ntp.org  
+2.arch.pool.ntp.org  
+3.arch.pool.ntp.org  
+0.fedora.pool.ntp.org  
+1.fedora.pool.ntp.org  
+2.fedora.pool.ntp.org  
+3.fedora.pool.ntp.org  
+0.opensuse.pool.ntp.org  
+1.opensuse.pool.ntp.org  
+2.opensuse.pool.ntp.org  
+3.opensuse.pool.ntp.org  
+0.centos.pool.ntp.org  
+1.centos.pool.ntp.org  
+2.centos.pool.ntp.org  
+3.centos.pool.ntp.org  
+0.debian.pool.ntp.org  
+1.debian.pool.ntp.org  
+2.debian.pool.ntp.org  
+3.debian.pool.ntp.org  
+0.askozia.pool.ntp.org  
+1.askozia.pool.ntp.org  
+2.askozia.pool.ntp.org  
+3.askozia.pool.ntp.org  
+0.freebsd.pool.ntp.org  
+1.freebsd.pool.ntp.org  
+2.freebsd.pool.ntp.org  
+3.freebsd.pool.ntp.org  
+0.netbsd.pool.ntp.org  
+1.netbsd.pool.ntp.org  
+2.netbsd.pool.ntp.org  
+3.netbsd.pool.ntp.org  
+0.openbsd.pool.ntp.org  
+1.openbsd.pool.ntp.org  
+2.openbsd.pool.ntp.org  
+3.openbsd.pool.ntp.org  
+0.dragonfly.pool.ntp.org  
+1.dragonfly.pool.ntp.org  
+2.dragonfly.pool.ntp.org  
+3.dragonfly.pool.ntp.org  
+0.pfsense.pool.ntp.org  
+1.pfsense.pool.ntp.org  
+2.pfsense.pool.ntp.org  
+3.pfsense.pool.ntp.org  
+0.opnsense.pool.ntp.org  
+1.opnsense.pool.ntp.org  
+2.opnsense.pool.ntp.org  
+3.opnsense.pool.ntp.org  
+0.amazon.pool.ntp.org  
+1.amazon.pool.ntp.org  
+2.amazon.pool.ntp.org  
+3.amazon.pool.ntp.org  
 
-# Other:
-## .mil:
-tick.usno.navy.mil
-tock.usno.navy.mil
-ntp2.usno.navy.mil
+# Other:  
+## .mil:  
+tick.usno.navy.mil  
+tock.usno.navy.mil  
+ntp2.usno.navy.mil  
 
-## .edu:
-utcnist2.colorado.edu
-timekeeper.isi.edu
-rackety.udel.edu
-mizbeaver.udel.edu
-otc1.psu.edu
-gnomon.cc.columbia.edu
-navobs1.gatech.edu
-navobs1.wustl.edu
-now.okstate.edu
-ntp.colby.edu
-ntp-s1.cise.ufl.edu
+## .edu:  
+utcnist2.colorado.edu  
+timekeeper.isi.edu  
+rackety.udel.edu  
+mizbeaver.udel.edu  
+otc1.psu.edu  
+gnomon.cc.columbia.edu  
+navobs1.gatech.edu  
+navobs1.wustl.edu  
+now.okstate.edu  
+ntp.colby.edu  
+ntp-s1.cise.ufl.edu  
 
-## .com:
-ntpstm.netbone-digital.com
-nist1.symmetricom.com
+## .com:  
+ntpstm.netbone-digital.com  
+nist1.symmetricom.com  
 
-## .net:
-t2.timegps.net
-gps.layer42.net
-ntp-ca.stygium.net
-sesku.planeacion.net
-ntp0.nl.uu.net
-ntp1.nl.uu.net
-navobs1.oar.net
-ntp-galway.hea.net
+## .net:  
+t2.timegps.net  
+gps.layer42.net  
+ntp-ca.stygium.net  
+sesku.planeacion.net  
+ntp0.nl.uu.net  
+ntp1.nl.uu.net  
+navobs1.oar.net  
+ntp-galway.hea.net  
 
-## .org:
-ntp1.ona.org
+## .org:  
+ntp1.ona.org  
 
-## .de:
-time.fu-berlin.de
-atom.uhr.de
-ntps1-0.cs.tu-berlin.de
-ntps1-1.cs.tu-berlin.de
-ntps1-0.uni-erlangen.de
-ntps1-1.uni-erlangen.de
-ntp1.fau.de
-ntp2.fau.de
-ntp.dianacht.de
-zeit.fu-berlin.de
-ptbtime1.ptb.de
-ptbtime2.ptb.de
-rustime01.rus.uni-stuttgart.de
-rustime02.rus.uni-stuttgart.de
+## .de:  
+time.fu-berlin.de  
+atom.uhr.de  
+ntps1-0.cs.tu-berlin.de  
+ntps1-1.cs.tu-berlin.de  
+ntps1-0.uni-erlangen.de  
+ntps1-1.uni-erlangen.de  
+ntp1.fau.de  
+ntp2.fau.de  
+ntp.dianacht.de  
+zeit.fu-berlin.de  
+ptbtime1.ptb.de  
+ptbtime2.ptb.de  
+rustime01.rus.uni-stuttgart.de  
+rustime02.rus.uni-stuttgart.de  
 
-## .nl:
-chime1.surfnet.nl
-ntp.vsl.nl
+## .nl: 
+chime1.surfnet.nl  
+ntp.vsl.nl  
 
-## .at:
-asynchronos.iiss.at
+## .at:  
+asynchronos.iiss.at  
 
-## .cz:
-ntp.nic.cz
-time.ufe.cz
+## .cz:  
+ntp.nic.cz  
+time.ufe.cz  
 
-## .pl:
-ntp.fizyka.umk.pl
-tempus1.gum.gov.pl
-tempus2.gum.gov.pl
+## .pl:  
+ntp.fizyka.umk.pl  
+tempus1.gum.gov.pl  
+tempus2.gum.gov.pl  
 
-## .ro:
-ntp1.usv.ro
-ntp3.usv.ro
+## .ro:  
+ntp1.usv.ro  
+ntp3.usv.ro  
 
-## .se:
-timehost.lysator.liu.se
-time1.stupi.se
+## .se:  
+timehost.lysator.liu.se  
+time1.stupi.se  
 
-## .ca:
-time.nrc.ca
-clock.uregina.ca
+## .ca:  
+time.nrc.ca  
+clock.uregina.ca  
 
-## .mx:
-cronos.cenam.mx
-ntp.lcf.mx
+## .mx:  
+cronos.cenam.mx  
+ntp.lcf.mx  
 
-## .es:
-hora.roa.es
-minuto.roa.es
+## .es:  
+hora.roa.es  
+minuto.roa.es  
 
-## .it:
-ntp1.inrim.it
-ntp2.inrim.it
+## .it:  
+ntp1.inrim.it  
+ntp2.inrim.it  
 
-## .be:
-ntp1.oma.be
-ntp2.oma.be
+## .be:  
+ntp1.oma.be  
+ntp2.oma.be  
 
-## .hu:
-ntp.atomki.mta.hu
+## .hu:  
+ntp.atomki.mta.hu  
 
-## .eus:
-ntp.i2t.ehu.eus
+## .eus:  
+ntp.i2t.ehu.eus  
 
-## .ch:
-ntp.neel.ch
+## .ch:  
+ntp.neel.ch  
 
-## .cn:
-ntp.neu.edu.cn
+## .cn:  
+ntp.neu.edu.cn  
 
-## .jp:
-ntp.nict.jp
+## .jp:  
+ntp.nict.jp  
 
-## .br:
-ntps1.pads.ufrj.br
+## .br:  
+ntps1.pads.ufrj.br  
 
-## .cl:
-ntp.shoa.cl
+## .cl:  
+ntp.shoa.cl  
 
-## .int:
-time.esa.int
-time1.esa.int
+## .int:  
+time.esa.int  
+time1.esa.int  
 
-## Links
+## Links  
 http://support.ntp.org/bin/view/Servers/StratumOneTimeServers
 http://support.ntp.org/bin/view/Servers/StratumTwoTimeServers
 http://support.ntp.org/bin/view/Servers/NTPPoolServers
