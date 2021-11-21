@@ -64,12 +64,12 @@ time4.google.com
 time.cloudflare.com
 
 ## Facebook NTP [AS32934]:
-time.facebook.com  
-time1.facebook.com  
-time2.facebook.com  
-time3.facebook.com  
-time4.facebook.com  
-time5.facebook.com  
+time1.facebook.com # 129.134.28.123)
+time2.facebook.com # 129.134.29.123)
+time3.facebook.com # 129.134.25.123)
+time4.facebook.com # 129.134.26.123)
+time5.facebook.com # 129.134.27.123)
+
 
 
 ## Microsoft NTP server [AS8075]:
