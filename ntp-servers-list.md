@@ -1,3 +1,9 @@
+# MSK-IX
+ntp.msk-ix.ru    
+194.190.168.1   
+2001:6d0:ffd4::1   
+
+
 # Mobtime.ru  
 ntp.mobatime.ru  
 
