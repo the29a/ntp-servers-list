@@ -11,7 +11,7 @@ List of some NTP Worldwide servers:
 8. Apple
 9. NIST Internet Time Service
 10. VNIIFTRI
-
+11. msk-ix.ru
 
 ## Links  
 [Stratum One Time Servers ](http://support.ntp.org/bin/view/Servers/StratumOneTimeServers)  
@@ -24,4 +24,5 @@ List of some NTP Worldwide servers:
 [NTP Zone - Oceania](http://www.pool.ntp.org/zone/oceania)  
 [NTP Zone - South America](http://www.pool.ntp.org/zone/south-america)  
 [TimeNL public NTP Service](https://time.nl/)  
+[MSK-IX](https://kb.msk-ix.ru/public/ntp-server/)
 
